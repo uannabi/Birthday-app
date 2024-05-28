@@ -1,6 +1,6 @@
 {
   "name": "birthday",
-  "version": "1.0.0",
+  "version": "1.x.x",
   "description": "Birthday greetings..",
   "main": " ",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "git+https://github.com/uannabi/happy_birthday_samantha.git"
   },
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
-  "license": "WTFPL",
+  "author": "Uannabi",
+  "license": "revoked",
   "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
+    "url": "https://github.com/uannabi/happy_birthday_samantha.git/issues"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "https://github.com/uannabi/happy_birthday_samantha.git#readme",
   "dependencies": {
     "http-server": "^0.11.1"
   }
